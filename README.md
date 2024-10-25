@@ -1,2 +1,2 @@
-👋 Henlo, am Leovolai
-I do stuff sometimes.
+- 👋 Henlo, am Leovolai
+- I do stuff sometimes.
